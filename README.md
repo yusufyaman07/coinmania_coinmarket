@@ -3,7 +3,7 @@
 CoinMania is a website that lists various cryptocurrencies and provides details of each.
 
 
-# Features:
+# Features
 
 - View current prices of cryptocurrencies.
 - Access detailed information of each cryptocurrency.
